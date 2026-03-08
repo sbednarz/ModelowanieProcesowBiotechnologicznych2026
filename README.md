@@ -35,5 +35,18 @@
 * [Python for Computational Science and Engineering](https://fangohr.github.io/introduction-to-python-for-computational-science-and-engineering/)
 
 
+### LITERATURA:
+
+* Ratledge, C., Kristiansen, B., Kononowicz, A. K., Chmiel, A., Anderson, A. J., Białkowska, A., & Bielecki, S. (2011). Podstawy biotechnologii. PWN.
+
+* Adamczak, M., Bednarski, W., Fiedurek, J. (2012). Podstawy biotechnologii przemysłowej : praca zbiorowa. Wydawnictwo WNT.
+
+* Szewczyk, K. W. (1995). Technologia biochemiczna. Oficyna Wydawnicza Politechniki Warszawskiej.
+
+* Ledakowicz, S. (2011). Inżynieria biochemiczna. Wydawnictwa Naukowo-Techniczne.
+
+*  Katoh, S., Horiuchi, J., & Yoshida, F. (2016). Biochemical engineering. Wiley-VCH Verlag GmbH & Co. KGaA.
+
+* Heinzle, E., Dunn I., Ingham J., Prenosil J. (2021). Biological reaction engineering : dynamic modelling fundamentals with simulation examples. Wiley-VCH.
 
 
