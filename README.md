@@ -45,6 +45,8 @@
 
 * Ledakowicz, S. (2011). Inżynieria biochemiczna. Wydawnictwa Naukowo-Techniczne.
 
+* Fermentation Process Technology Sven-Olof Enfors Royal	Institute	of	Technology (KTH) Stockholm,	2019 [https://www.enfors.eu/dl/temp/FermProcTechnol.pdf]
+
 *  Katoh, S., Horiuchi, J., & Yoshida, F. (2016). Biochemical engineering. Wiley-VCH Verlag GmbH & Co. KGaA.
 
 * Heinzle, E., Dunn I., Ingham J., Prenosil J. (2021). Biological reaction engineering : dynamic modelling fundamentals with simulation examples. Wiley-VCH.
